@@ -1,3 +1,5 @@
+Task management application with Flutter
+
 In this project I practiced creating an application user interface with Flutter. 
 
 ![kuva](https://user-images.githubusercontent.com/88309715/203981488-db4ebfa2-3e7d-40bb-9358-9c62677eabc1.png)
